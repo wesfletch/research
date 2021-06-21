@@ -1,13 +1,15 @@
-## **00 ROS**
+
 ---
+## **00 ROS**
+
 
 ### Robot Operating System (ROS) - The Complete Reference 3 (2018)
 > **INDEX**: 00_00
 
 > **ABOUT**: Compilation of papers describing some interesting ROS packages. Not necessarily very helpful, tbh. One of the other volumes contains the paper on elevation_mapping.
 
-## **01 mapping**
 ---
+## **01 mapping**
 
 ### Slides - Techniques for 3D Mapping
 > **INDEX**: 01_00
@@ -36,6 +38,7 @@
 
 > **ABOUT**: Paper that develops an algorithm for map segmentation to generate semantic maps (both geometric and semantic info).
 
+---
 ## **02 terrain**
 
 ### Probabilistic Terrain Mapping for Mobile Robots with Uncertain Localization
@@ -48,8 +51,9 @@
 
 > **ABOUT**: Very technical paper discussing methods for obstacle-detection and path-planning in complex outdoor terrain.
 
-## **03 SOAR**
 ---
+## **03 SOAR**
+
 
 ### SOAR User's Manual
 > **INDEX**: 03_00
