@@ -74,3 +74,8 @@
 > **INDEX**: 03_03
 
 > **ABOUT**: Very strange paper about implementing a SOAR architecture with Bentham-style Utilitarian ethics.
+
+### Implementation of a Refusable Human-Robot Interaction Task with Humanoid Robot by Connecting Soar and ROS
+> **INDEX**: 03_04
+
+> **ABOUT**: Paper that goes into some depth about a combined SOAR/ROS system as well as the interface between them, implemented as a ROS node "wrapper" around a SOAR client.
