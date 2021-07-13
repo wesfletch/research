@@ -79,3 +79,8 @@
 > **INDEX**: 03_04
 
 > **ABOUT**: Paper that goes into some depth about a combined SOAR/ROS system as well as the interface between them, implemented as a ROS node "wrapper" around a SOAR client.
+
+### Completing Ambiguous Plans in Cognitive Robotics with Delayed Information
+> **INDEX**: 03_05
+
+> **ABOUT**: Goes into more implementation details than (03_04) about an interface between SOAR and ROS using a SOAR Markup Language (SML) client program.
